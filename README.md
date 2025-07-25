@@ -24,3 +24,4 @@ To build an interactive Pizza Sales Dashboard that helps identify peak sales hou
 - What is the customer purchase behavior by category and size?
 - How consistent is revenue generation across days and hours?
 - Are there underperforming pizzas that need to be reviewed or removed?
+  - <a href=https://github.com/Ayush1824/Pizza-Performance-Dashboard/blob/main/Screenshot%202025-07-25%20174145.png> View Dashboard</a>

@@ -25,3 +25,27 @@ To build an interactive Pizza Sales Dashboard that helps identify peak sales hou
 - How consistent is revenue generation across days and hours?
 - Are there underperforming pizzas that need to be reviewed or removed?
   - <a href=https://github.com/Ayush1824/Pizza-Performance-Dashboard/blob/main/Screenshot%202025-07-25%20174145.png> View Dashboard</a>
+
+## Precess
+- Verify data for any missing values and anomalies,and sort out the same.
+- Made sure that data is  consistent and clean with respect to data type,data formate and value used.
+- Createad a pivot according to question asked.
+- Merge all the pivot tables into one dashboard and apply yhe slicer to make ir dynamic.
+  
+  - <a href=https://github.com/Ayush1824/Pizza-Performance-Dashboard/blob/main/Screenshot%202025-07-25%20174145.png> View Dashboard</a>
+
+
+## Project Insights:
+
+- High Demand Periods: Orders peaked during weekends, especially Fridays and Saturdays between 12–2 PM and 5–8 PM, indicating when to allocate more staff and       prepare more inventory.
+
+- Customer Preferences: Classic pizzas and Large sizes generated the most sales, showing a strong customer preference for traditional and shareable options.
+
+- Product Performance Gaps: The bottom 5 pizzas had significantly lower sales, suggesting they may need promotion, repositioning, or removal from the menu.
+
+- Revenue Drivers: A small group of pizzas contributed disproportionately to total revenue, reinforcing the 80/20 rule (Pareto Principle) in menu performance.
+
+- Sales Patterns: Clear trends in daily and hourly sales enabled better planning for offers, discounts, and targeted marketing campaigns.
+
+## Conclusion:
+- This project successfully transformed raw pizza sales data into a powerful decision-making tool using data visualization. The dashboard enabled business stakeholders to clearly understand customer behavior, product performance, and operational gaps. As a result, it supports more profitable, efficient, and customer-focused business strategies. This project demonstrates the real-world impact of data analytics in the F&B industry and the value of insightful dashboards in solving day-to-day business challenges.

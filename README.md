@@ -26,7 +26,7 @@ To build an interactive Pizza Sales Dashboard that helps identify peak sales hou
 - Are there underperforming pizzas that need to be reviewed or removed?
   - <a href=https://github.com/Ayush1824/Pizza-Performance-Dashboard/blob/main/Screenshot%202025-07-25%20174145.png> View Dashboard</a>
 
-## Precess
+## Process
 - Verify data for any missing values and anomalies,and sort out the same.
 - Made sure that data is  consistent and clean with respect to data type,data formate and value used.
 - Createad a pivot according to question asked.
